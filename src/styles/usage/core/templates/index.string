@@ -1,0 +1,12 @@
+<div class='m-index'>
+	<div class='l-container'></div>
+	<footer>
+		<ul>
+			<li class="active" action-type="switch.tabs" data-tag="home"><i class="yo-ico">&#xe60c;</i><b>首页</b></li>
+			<li action-type="switch.tabs" data-tag="dongtai"><i class="yo-ico">&#xe6c6;</i><b>动态</b></li>
+			<li><i class="yo-ico">&#xf0052;</i></li>		
+			<li action-type="switch.tabs" data-tag = 'message'><i class="yo-ico">&#xe619;</i><b>消息</b></li>
+			<li action-type="switch.tabs" data-tag="my"><i class="yo-ico">&#xe675;</i><b>我的</b></li>		
+		</ul>
+	</footer>
+</div>

@@ -1,0 +1,40 @@
+<div class='m-dongtai'>
+	<header>
+		<ul>
+			<li>登录</li>
+			<li>秀巢网</li>
+			<li>注册</li>
+		</ul>
+	</header>
+	<nav>
+		<ul>
+			<li class='active' action-type='tabSlide'>精彩</li>
+			<li action-type='tabSlide'>广场</li>
+			<li action-type='tabSlide'>关注</li>
+		</ul>
+	</nav>
+	<section>
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<div class='m-lifenav'>
+						<ul>
+							<li>good01</li>
+							<li>good02</li>
+							<li>good03</li>
+							<li>good04</li>
+							<li>good05</li>
+							<li>good06</li>
+							<li>good07</li>
+							<li>good08</li>
+						</ul>
+					</div>
+					
+					
+				</div>
+				<div class="swiper-slide">slider2</div>
+				<div class="swiper-slide">slider3</div>
+			</div>
+		</div>
+	</section>
+</div>

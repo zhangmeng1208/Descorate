@@ -1,0 +1,131 @@
+<div class='m-home'>
+	<header>
+		<ul>
+			<li>登录</li>
+			<li>秀巢网</li>
+			<li>注册</li>
+		</ul>
+	</header>
+	<nav>
+		<div class="banner">
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<img src='img/adv1.jpg' />
+					</div>
+					<div class="swiper-slide">
+						<img src='img/bgimage.png' />
+					</div>
+					<div class="swiper-slide">
+						<img src='img/decorate_bg.png' />
+					</div>
+				</div>
+				<!-- 如果需要分页器 -->
+				<div class="swiper-pagination"></div>
+			</div>
+		</div>
+	</nav>
+	<section id='home-scroll' spa-widget='scroll'>
+		<div>
+			<ul>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>招标大厅</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/shejishi.png">
+                <b>直选设计师设计</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>直选施工</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>直选监理</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shejishi.png">
+                <b>选装修公司</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>选装修材料</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shejishi.png">
+                <b>新手教程</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>招标流程</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>约标流程</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>步装步美</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>直选施工</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>直选监理</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shejishi.png">
+                <b>选装修公司</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>选装修材料</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>直选施工</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/jianli.png">
+                <b>直选监理</b>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <img src="/decorates/img/shejishi.png">
+                <b>选装修公司</b>
+              </li>
+              <li></li>
+              <li>
+                <img src="/decorates/img/shigongdui.png">
+                <b>选装修材料</b>
+              </li>
+            </ul>
+		</div>	
+	</section>
+</div>
